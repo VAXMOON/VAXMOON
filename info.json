@@ -1,0 +1,25 @@
+{
+    "name": "VAXMOON",
+    "website": "https://vaxmoon.com",
+    "description": "Two tokens, one shared charity wallet, one shared marketing wallet. Time to put your money where your incredibly loud beliefs are, to vax or not to vax? That is the question.",
+    "explorer": "https://bscscan.com/token/0x4eD2B632a17c6603aA34Fb344D495F46cdB6Fcc3",
+    "type": "BEP20",
+    "symbol": "VAXMOON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4eD2B632a17c6603aA34Fb344D495F46cdB6Fcc3",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/VAXMOON/vaxmoon"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/_VAXMOON_"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/VAXMOON"
+        }
+    ]
+}
